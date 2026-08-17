@@ -62,7 +62,7 @@
             "last_commit": "2023-11-02T17:52:22Z",
             "owner": "choojs",
             "repo": "hyperx",
-            "stars": 1017
+            "stars": 1015
           }
         },
         {
@@ -865,7 +865,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:55:22.646Z",
+    "last_updated": "2026-08-17T03:57:45.372Z",
     "original_repository": "choojs/awesome-choo",
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
     "enhanced_repository": "enhansome/enhansome-choo",
