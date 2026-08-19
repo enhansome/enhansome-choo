@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58482213,
             "language": "JavaScript",
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58482213,
             "language": "JavaScript",
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61435630,
             "language": "HTML",
             "last_commit": "2019-05-16T17:03:21Z",
             "owner": "choojs",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48908942,
             "language": "JavaScript",
             "last_commit": "2023-11-02T17:52:22Z",
             "owner": "choojs",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62445973,
             "language": "JavaScript",
             "last_commit": "2021-06-01T02:56:46Z",
             "owner": "choojs",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52651469,
             "language": "JavaScript",
             "last_commit": "2022-10-12T07:02:48Z",
             "owner": "choojs",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83854134,
             "language": "JavaScript",
             "last_commit": "2021-02-18T16:45:11Z",
             "owner": "choojs",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84775983,
             "language": "JavaScript",
             "last_commit": "2019-06-09T09:07:51Z",
             "owner": "choojs",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95769959,
             "language": "JavaScript",
             "last_commit": "2019-04-01T09:49:14Z",
             "owner": "choojs",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88273230,
             "language": "JavaScript",
             "last_commit": "2019-09-04T15:48:31Z",
             "owner": "choojs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88270816,
             "language": "JavaScript",
             "last_commit": "2018-04-16T08:48:51Z",
             "owner": "choojs",
@@ -170,24 +181,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95934234,
             "language": "JavaScript",
             "last_commit": "2018-04-11T11:16:13Z",
             "owner": "choojs",
             "repo": "nanolocation",
             "stars": 10
           }
-        },
-        {
-          "node_type": "item",
-          "title": "nanoraf",
-          "description": "Only call RAF when needed.",
-          "children": []
         }
       ],
       "title": "Dependencies"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -196,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58482213,
             "language": "JavaScript",
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
@@ -210,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58482213,
             "language": "JavaScript",
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
@@ -224,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59391063,
             "language": "JavaScript",
             "last_commit": "2017-01-22T13:23:51Z",
             "owner": "shuhei",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62131939,
             "language": "JavaScript",
             "last_commit": "2017-01-15T12:26:51Z",
             "owner": "fyrkant",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72955145,
             "language": "JavaScript",
             "last_commit": "2016-12-26T16:55:46Z",
             "owner": "timwis",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61845360,
             "language": "CSS",
             "last_commit": "2016-06-24T00:29:00Z",
             "owner": "sethvincent",
@@ -280,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105513035,
             "language": "JavaScript",
             "last_commit": "2017-11-26T05:58:20Z",
             "owner": "ZhouHansen",
@@ -294,24 +307,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63000380,
             "language": "JavaScript",
             "last_commit": "2016-07-12T18:04:10Z",
             "owner": "plaey",
             "repo": "chatbot",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "chat-random",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Demos"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -320,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62824236,
             "language": "JavaScript",
             "last_commit": "2017-10-18T14:58:16Z",
             "owner": "choojs",
@@ -334,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67651184,
             "language": "JavaScript",
             "last_commit": "2018-04-25T04:30:03Z",
             "owner": "yoshuawuyts",
@@ -348,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130748192,
             "language": "JavaScript",
             "last_commit": "2020-10-09T05:54:00Z",
             "owner": "choojs",
@@ -362,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105530753,
             "language": "JavaScript",
             "last_commit": "2017-12-29T12:34:49Z",
             "owner": "YerkoPalma",
@@ -376,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96717672,
             "language": "JavaScript",
             "last_commit": "2019-06-09T08:32:21Z",
             "owner": "choojs",
@@ -390,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63532875,
             "language": "JavaScript",
             "last_commit": "2023-04-17T08:43:09Z",
             "owner": "mantoni",
@@ -404,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76357483,
             "language": "JavaScript",
             "last_commit": "2017-05-20T01:42:13Z",
             "owner": "choojs",
@@ -418,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104643137,
             "language": "JavaScript",
             "last_commit": "2018-02-05T12:32:29Z",
             "owner": "graforlock",
@@ -432,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64047819,
             "language": "JavaScript",
             "last_commit": "2017-05-11T11:09:55Z",
             "owner": "yoshuawuyts",
@@ -446,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72666217,
             "language": "JavaScript",
             "last_commit": "2017-03-23T14:12:55Z",
             "owner": "bengourley",
@@ -460,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67897989,
             "language": "JavaScript",
             "last_commit": "2016-10-29T15:09:21Z",
             "owner": "yoshuawuyts",
@@ -474,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65158967,
             "language": "JavaScript",
             "last_commit": "2017-08-06T19:47:46Z",
             "owner": "resonance-cascade",
@@ -488,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80947943,
             "language": "JavaScript",
             "last_commit": "2017-06-02T10:48:42Z",
             "owner": "rahatarmanahmed",
@@ -499,7 +520,7 @@
       "title": "Plugins and addons"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -508,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63698934,
             "language": "CSS",
             "last_commit": "2023-05-04T19:26:33Z",
             "owner": "finnp",
@@ -522,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63632084,
             "language": "JavaScript",
             "last_commit": "2017-01-19T00:00:01Z",
             "owner": "trainyard",
@@ -536,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65710169,
             "language": "JavaScript",
             "last_commit": "2018-01-09T00:19:35Z",
             "owner": "rexmortus",
@@ -550,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77054402,
             "language": "JavaScript",
             "last_commit": "2017-07-17T04:58:58Z",
             "owner": "dbtek",
@@ -561,7 +586,7 @@
       "title": "Elements"
     },
     {
-      "description": "Templates for choo-cli",
+      "description": "Templates for choo-cli\nOther CLI templates",
       "items": [
         {
           "node_type": "item",
@@ -570,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78937880,
             "language": "JavaScript",
             "last_commit": "2017-03-04T10:04:09Z",
             "owner": "Haroenv",
@@ -584,24 +610,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72234025,
             "language": "JavaScript",
             "last_commit": "2017-10-18T09:09:41Z",
             "owner": "trainyard",
             "repo": "template-basic",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "simonwjackson/atomic-choo",
-          "description": "An opinionated project seed to get started developing with electron, webpack and choo.",
-          "children": []
         }
       ],
       "title": "CLI Templates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -610,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71257322,
             "language": "JavaScript",
             "last_commit": "2020-09-01T21:24:55Z",
             "owner": "robotopia-x",
@@ -624,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64566453,
             "language": "JavaScript",
             "last_commit": "2025-04-14T08:21:13Z",
             "owner": "hypermodules",
@@ -638,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54788072,
             "language": "JavaScript",
             "last_commit": "2019-08-06T22:13:27Z",
             "owner": "freeman-lab",
@@ -652,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87179670,
             "language": "JavaScript",
             "last_commit": "2017-08-04T14:34:55Z",
             "owner": "timwis",
@@ -666,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121934205,
             "language": "JavaScript",
             "last_commit": "2020-04-18T08:00:24Z",
             "owner": "boowajs",
@@ -680,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64841546,
             "language": "JavaScript",
             "last_commit": "2022-09-25T20:27:09Z",
             "owner": "timwis",
@@ -694,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62612494,
             "language": "CSS",
             "last_commit": "2017-12-22T16:20:53Z",
             "owner": "HoverBaum",
@@ -708,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64710435,
             "language": "JavaScript",
             "last_commit": "2016-08-24T01:08:48Z",
             "owner": "kvnneff",
@@ -722,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30004552,
             "language": "JavaScript",
             "last_commit": "2017-08-12T22:16:02Z",
             "owner": "notenoughneon",
@@ -736,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60884982,
             "language": "JavaScript",
             "last_commit": "2017-06-24T21:28:42Z",
             "owner": "toddself",
@@ -750,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61886033,
             "language": "JavaScript",
             "last_commit": "2016-06-26T17:45:00Z",
             "owner": "fyrkant",
@@ -764,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114579749,
             "language": "JavaScript",
             "last_commit": "2019-02-19T22:46:44Z",
             "owner": "afk-mario",
@@ -778,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64080545,
             "language": "JavaScript",
             "last_commit": "2018-01-03T18:30:34Z",
             "owner": "YerkoPalma",
@@ -792,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119194877,
             "language": "JavaScript",
             "last_commit": "2022-12-10T20:33:34Z",
             "owner": "luizbaldi",
@@ -806,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61918649,
             "language": "JavaScript",
             "last_commit": "2016-07-20T23:57:31Z",
             "owner": "nickpeihl",
@@ -820,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78217660,
             "language": "JavaScript",
             "last_commit": "2017-06-09T11:24:35Z",
             "owner": "CiviCDR",
@@ -834,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61757110,
             "language": "JavaScript",
             "last_commit": "2016-06-24T17:41:58Z",
             "owner": "willkessler",
@@ -848,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461163504,
             "language": null,
             "last_commit": "2022-02-19T10:53:56Z",
             "owner": "Kaktus",
@@ -857,16 +896,12 @@
         }
       ],
       "title": "Projects using choo"
-    },
-    {
-      "description": "To the extent possible under law, Yerko Palma has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:54:28.851Z",
+    "last_updated": "2026-08-19T12:18:39.385Z",
     "original_repository": "choojs/awesome-choo",
+    "original_repository_id": 62729561,
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
     "enhanced_repository": "enhansome/enhansome-choo",
     "enhanced_repository_description": null,
