@@ -81,7 +81,7 @@
             "last_commit": "2021-06-01T02:56:46Z",
             "owner": "choojs",
             "repo": "nanomorph",
-            "stars": 753
+            "stars": 752
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:54:45.888Z",
+    "last_updated": "2026-08-21T03:57:02.447Z",
     "original_repository": "choojs/awesome-choo",
     "original_repository_id": 62729561,
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
