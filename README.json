@@ -617,6 +617,21 @@
             "repo": "template-basic",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "graforlock/choo-bandwagon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104578415,
+            "language": "JavaScript",
+            "last_commit": "2019-05-24T14:32:05Z",
+            "owner": "graforlock",
+            "repo": "choo-bandwagon",
+            "stars": 13
+          }
         }
       ],
       "title": "CLI Templates"
@@ -899,7 +914,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:01:57.119Z",
+    "last_updated": "2026-08-24T14:31:52.923Z",
     "original_repository": "choojs/awesome-choo",
     "original_repository_id": 62729561,
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
