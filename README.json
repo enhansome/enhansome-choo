@@ -15,7 +15,7 @@
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6769
+            "stars": 6768
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6769
+            "stars": 6768
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6769
+            "stars": 6768
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-02-20T10:15:19Z",
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6769
+            "stars": 6768
           }
         },
         {
@@ -914,9 +914,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:24.622Z",
-    "original_repository": "choojs/awesome-choo",
-    "original_repository_id": 62729561,
+    "last_updated": "2026-08-27T11:33:16.576Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 62729561,
+      "language": null,
+      "last_commit": "2019-12-19T10:14:54Z",
+      "owner": "choojs",
+      "repo": "awesome-choo",
+      "stars": 203
+    },
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
     "enhanced_repository": "enhansome/enhansome-choo",
     "enhanced_repository_description": null,

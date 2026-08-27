@@ -17,8 +17,8 @@
 
 ### Official resources
 
-* [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
-* [Repo](https://github.com/yoshuawuyts/choo) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) ⭐ 6,768 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Repo](https://github.com/yoshuawuyts/choo) ⭐ 6,768 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
 * [Handbook](https://github.com/yoshuawuyts/choo-handbook) ⭐ 268 | 🐛 13 | 🌐 HTML | 📅 2019-05-16
 * [Website](https://choo.io/)
 * [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
@@ -43,8 +43,8 @@ under the hood:
 
 ### Demos
 
-* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20)
-* [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) ⭐ 6,769 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title) ⭐ 6,768 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20)
+* [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) ⭐ 6,768 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-22)
 * [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-15)
 * [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-26
@@ -134,4 +134,4 @@ To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
