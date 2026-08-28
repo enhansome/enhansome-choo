@@ -16,7 +16,8 @@
             "owner": "choojs",
             "repo": "choo",
             "stars": 6768
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "choojs",
             "repo": "choo",
             "stars": 6768
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "choojs",
             "repo": "choo-handbook",
             "stars": 268
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Official resources"
@@ -67,7 +70,8 @@
             "owner": "choojs",
             "repo": "hyperx",
             "stars": 1015
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "choojs",
             "repo": "nanomorph",
             "stars": 752
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "choojs",
             "repo": "nanohtml",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "choojs",
             "repo": "nanobus",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "choojs",
             "repo": "nanorouter",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "choojs",
             "repo": "nanoquery",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "choojs",
             "repo": "nanohref",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "choojs",
             "repo": "nanotiming",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "choojs",
             "repo": "nanolocation",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Dependencies"
@@ -208,7 +220,8 @@
             "owner": "choojs",
             "repo": "choo",
             "stars": 6768
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "choojs",
             "repo": "choo",
             "stars": 6768
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "shuhei",
             "repo": "todomvc-choo",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "fyrkant",
             "repo": "choo-firebase",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "timwis",
             "repo": "choo-leaflet-demo",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "sethvincent",
             "repo": "grow",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "ZhouHansen",
             "repo": "choo-scriber",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "plaey",
             "repo": "chatbot",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Demos"
@@ -334,7 +354,8 @@
             "owner": "choojs",
             "repo": "choo-log",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "yoshuawuyts",
             "repo": "choo-persist",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "choojs",
             "repo": "choo-store",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "YerkoPalma",
             "repo": "choo-websocket",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "choojs",
             "repo": "choo-service-worker",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "mantoni",
             "repo": "choo-test",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -424,7 +450,8 @@
             "owner": "choojs",
             "repo": "choo-redirect",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "graforlock",
             "repo": "choo-detached",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "yoshuawuyts",
             "repo": "choo-pull",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "bengourley",
             "repo": "choo-resume",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "yoshuawuyts",
             "repo": "choo-model",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "resonance-cascade",
             "repo": "choo-location-electron",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "rahatarmanahmed",
             "repo": "choo-promise",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Plugins and addons"
@@ -535,7 +568,8 @@
             "owner": "finnp",
             "repo": "dom-notifications",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "trainyard",
             "repo": "choodown",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -565,7 +600,8 @@
             "owner": "rexmortus",
             "repo": "choo-chartist",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -580,7 +616,8 @@
             "owner": "dbtek",
             "repo": "choo-md-editor",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Elements"
@@ -601,7 +638,8 @@
             "owner": "Haroenv",
             "repo": "template-webpack",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "trainyard",
             "repo": "template-basic",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "graforlock",
             "repo": "choo-bandwagon",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "CLI Templates"
@@ -652,7 +692,8 @@
             "owner": "robotopia-x",
             "repo": "robotopia",
             "stars": 526
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -667,7 +708,8 @@
             "owner": "hypermodules",
             "repo": "hyperamp",
             "stars": 307
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -682,7 +724,8 @@
             "owner": "freeman-lab",
             "repo": "minidocs",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -697,7 +740,8 @@
             "owner": "timwis",
             "repo": "dataface",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -712,7 +756,8 @@
             "owner": "boowajs",
             "repo": "boowa",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -727,7 +772,8 @@
             "owner": "timwis",
             "repo": "enviar",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -742,7 +788,8 @@
             "owner": "HoverBaum",
             "repo": "BlankUp-Electron",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -757,7 +804,8 @@
             "owner": "kvnneff",
             "repo": "hackernews-choo",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -772,7 +820,8 @@
             "owner": "notenoughneon",
             "repo": "nekocafe",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -787,7 +836,8 @@
             "owner": "toddself",
             "repo": "boxcar",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -802,7 +852,8 @@
             "owner": "fyrkant",
             "repo": "hacker-choo",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -817,7 +868,8 @@
             "owner": "afk-mario",
             "repo": "busca",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -832,7 +884,8 @@
             "owner": "YerkoPalma",
             "repo": "tic-tac-toe",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -847,7 +900,8 @@
             "owner": "luizbaldi",
             "repo": "choo-ban",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -862,7 +916,8 @@
             "owner": "nickpeihl",
             "repo": "footprint-rechoo",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -877,7 +932,8 @@
             "owner": "CiviCDR",
             "repo": "civicdr.org",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -892,7 +948,8 @@
             "owner": "willkessler",
             "repo": "choo-sortable",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         },
         {
           "node_type": "item",
@@ -907,14 +964,15 @@
             "owner": "Kaktus",
             "repo": "Kaktus",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
         }
       ],
       "title": "Projects using choo"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:05:10.997Z",
+    "last_updated": "2026-08-28T15:16:10.396Z",
     "original_repository_info": {
       "archived": false,
       "id": 62729561,
