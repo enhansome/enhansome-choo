@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":steam_locomotive::train: - sturdy 4kb frontend framework",
+            "homepage": "https://choo.io/",
             "id": 58482213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T10:15:19Z",
+            "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6768
+            "stars": 6768,
+            "topics": [
+              "choo",
+              "dom",
+              "interface",
+              "minimal",
+              "modular",
+              "ui",
+              "unidirectional",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":steam_locomotive::train: - sturdy 4kb frontend framework",
+            "homepage": "https://choo.io/",
             "id": 58482213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T10:15:19Z",
+            "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6768
+            "stars": 6768,
+            "topics": [
+              "choo",
+              "dom",
+              "interface",
+              "minimal",
+              "modular",
+              "ui",
+              "unidirectional",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -42,12 +70,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚂✋📖 - Learn the choo framework through a set of exercises",
+            "homepage": "https://handbook.choo.io",
             "id": 61435630,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-16T17:03:21Z",
+            "open_issues": 13,
             "owner": "choojs",
             "repo": "choo-handbook",
-            "stars": 268
+            "stars": 268,
+            "topics": [
+              "book",
+              "choo",
+              "framework",
+              "frontend",
+              "guide",
+              "handbook",
+              "markdown",
+              "tutorial",
+              "workshop"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -64,12 +107,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏷 - tagged template string virtual dom builder",
+            "homepage": null,
             "id": 48908942,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-11-02T17:52:22Z",
+            "open_issues": 15,
             "owner": "choojs",
             "repo": "hyperx",
-            "stars": 1015
+            "stars": 1015,
+            "topics": [
+              "dom",
+              "html",
+              "template-strings",
+              "virtual-dom"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -80,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚅 - Hyper fast diffing algorithm for real DOM nodes",
+            "homepage": null,
             "id": 62445973,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-01T02:56:46Z",
+            "open_issues": 21,
             "owner": "choojs",
             "repo": "nanomorph",
-            "stars": 752
+            "stars": 752,
+            "topics": [
+              "algorithm",
+              "diff",
+              "dom",
+              "tree",
+              "virtual-dom"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -96,12 +160,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dragon: HTML template strings for the Browser with support for Server Side Rendering in Node.",
+            "homepage": null,
             "id": 52651469,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-12T07:02:48Z",
+            "open_issues": 27,
             "owner": "choojs",
             "repo": "nanohtml",
-            "stars": 688
+            "stars": 688,
+            "topics": [
+              "dom",
+              "element",
+              "frontend"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -112,12 +185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚎 - Tiny message bus",
+            "homepage": null,
             "id": 83854134,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-02-18T16:45:11Z",
+            "open_issues": 3,
             "owner": "choojs",
             "repo": "nanobus",
-            "stars": 228
+            "stars": 228,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -128,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛤 - Small frontend router",
+            "homepage": null,
             "id": 84775983,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-09T09:07:51Z",
+            "open_issues": 4,
             "owner": "choojs",
             "repo": "nanorouter",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -144,12 +227,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📇 - Tiny querystring module",
+            "homepage": null,
             "id": 95769959,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-01T09:49:14Z",
+            "open_issues": 2,
             "owner": "choojs",
             "repo": "nanoquery",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -160,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⛓ - Tiny href click handler library",
+            "homepage": null,
             "id": 88273230,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-09-04T15:48:31Z",
+            "open_issues": 1,
             "owner": "choojs",
             "repo": "nanohref",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -176,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏲ - Small timing library",
+            "homepage": null,
             "id": 88270816,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-16T08:48:51Z",
+            "open_issues": 4,
             "owner": "choojs",
             "repo": "nanotiming",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -192,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📍- Small window.location library",
+            "homepage": null,
             "id": 95934234,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-11T11:16:13Z",
+            "open_issues": 0,
             "owner": "choojs",
             "repo": "nanolocation",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -214,12 +317,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":steam_locomotive::train: - sturdy 4kb frontend framework",
+            "homepage": "https://choo.io/",
             "id": 58482213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T10:15:19Z",
+            "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6768
+            "stars": 6768,
+            "topics": [
+              "choo",
+              "dom",
+              "interface",
+              "minimal",
+              "modular",
+              "ui",
+              "unidirectional",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -230,12 +347,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":steam_locomotive::train: - sturdy 4kb frontend framework",
+            "homepage": "https://choo.io/",
             "id": 58482213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T10:15:19Z",
+            "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6768
+            "stars": 6768,
+            "topics": [
+              "choo",
+              "dom",
+              "interface",
+              "minimal",
+              "modular",
+              "ui",
+              "unidirectional",
+              "vanilla"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -246,12 +377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TodoMVC app built with choo",
+            "homepage": "https://todo.choo.io/",
             "id": 59391063,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-22T13:23:51Z",
+            "open_issues": 0,
             "owner": "shuhei",
             "repo": "todomvc-choo",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -262,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example showing how to use firebase with choo.",
+            "homepage": null,
             "id": 62131939,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-15T12:26:51Z",
+            "open_issues": 0,
             "owner": "fyrkant",
             "repo": "choo-firebase",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -278,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example usage of leaflet with choo via cache-element",
+            "homepage": "http://choo-leaflet-demo.surge.sh",
             "id": 72955145,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-26T16:55:46Z",
+            "open_issues": 0,
             "owner": "timwis",
             "repo": "choo-leaflet-demo",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -294,12 +440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple click game made with choo",
+            "homepage": "https://grow.static.land",
             "id": 61845360,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-06-24T00:29:00Z",
+            "open_issues": 1,
             "owner": "sethvincent",
             "repo": "grow",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -310,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚂 a cute choo webapp",
+            "homepage": "https://zhouhansen.github.io/choo-scriber/",
             "id": 105513035,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-11-26T05:58:20Z",
+            "open_issues": 0,
             "owner": "ZhouHansen",
             "repo": "choo-scriber",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -326,12 +482,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chatbot demo app showcasing choo tachyons and socketio",
+            "homepage": null,
             "id": 63000380,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-07-12T18:04:10Z",
+            "open_issues": 0,
             "owner": "plaey",
             "repo": "chatbot",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -348,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📃 - Development logger for choo",
+            "homepage": null,
             "id": 62824236,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-10-18T14:58:16Z",
+            "open_issues": 0,
             "owner": "choojs",
             "repo": "choo-log",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -364,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synchronize choo state with indexedDB",
+            "homepage": null,
             "id": 67651184,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-04-25T04:30:03Z",
+            "open_issues": 5,
             "owner": "yoshuawuyts",
             "repo": "choo-persist",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -380,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight state structure for choo apps.",
+            "homepage": null,
             "id": 130748192,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2020-10-09T05:54:00Z",
+            "open_issues": 0,
             "owner": "choojs",
             "repo": "choo-store",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -396,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":loop: Small wrapper around WebSocket browser API, for choo apps",
+            "homepage": null,
             "id": 105530753,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-12-29T12:34:49Z",
+            "open_issues": 0,
             "owner": "YerkoPalma",
             "repo": "choo-websocket",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -412,12 +593,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👷 - Service worker loader for choo",
+            "homepage": null,
             "id": 96717672,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-09T08:32:21Z",
+            "open_issues": 0,
             "owner": "choojs",
             "repo": "choo-service-worker",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -428,12 +614,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚂🚋🚋🚋 Easy choo app unit testing",
+            "homepage": null,
             "id": 63532875,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-17T08:43:09Z",
+            "open_issues": 5,
             "owner": "mantoni",
             "repo": "choo-test",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "choo",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -444,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎬 - Redirect a view to another view",
+            "homepage": null,
             "id": 76357483,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-20T01:42:13Z",
+            "open_issues": 0,
             "owner": "choojs",
             "repo": "choo-redirect",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -460,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper around choo API that allows to use choo components without a baked-in routing layer.",
+            "homepage": null,
             "id": 104643137,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-05T12:32:29Z",
+            "open_issues": 0,
             "owner": "graforlock",
             "repo": "choo-detached",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -476,12 +680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrap handlers to use pull-stream in a choo plugin",
+            "homepage": null,
             "id": 64047819,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-11T11:09:55Z",
+            "open_issues": 0,
             "owner": "yoshuawuyts",
             "repo": "choo-pull",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -492,12 +701,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "choo-resume + hot-rld = hot app reload in choo",
+            "homepage": null,
             "id": 72666217,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-03-23T14:12:55Z",
+            "open_issues": 0,
             "owner": "bengourley",
             "repo": "choo-resume",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -508,12 +722,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental state management lib for choo",
+            "homepage": null,
             "id": 67897989,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-29T15:09:21Z",
+            "open_issues": 0,
             "owner": "yoshuawuyts",
             "repo": "choo-model",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -524,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A choo subscription that fixes routing in electron",
+            "homepage": "https://www.npmjs.com/package/choo-location-electron",
             "id": 65158967,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2017-08-06T19:47:46Z",
+            "open_issues": 1,
             "owner": "resonance-cascade",
             "repo": "choo-location-electron",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -540,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A choo plugin that lets you use promises for effects and subscriptions",
+            "homepage": null,
             "id": 80947943,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-02T10:48:42Z",
+            "open_issues": 1,
             "owner": "rahatarmanahmed",
             "repo": "choo-promise",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -562,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Atom-inspired notifications component",
+            "homepage": "http://www.finnpauls.de/dom-notifications/",
             "id": 63698934,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-05-04T19:26:33Z",
+            "open_issues": 0,
             "owner": "finnp",
             "repo": "dom-notifications",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -578,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple markdown component for choo-js",
+            "homepage": null,
             "id": 63632084,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-19T00:00:01Z",
+            "open_issues": 0,
             "owner": "trainyard",
             "repo": "choodown",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -594,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little component for using Chartist with the choo framework!",
+            "homepage": null,
             "id": 65710169,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-09T00:19:35Z",
+            "open_issues": 2,
             "owner": "rexmortus",
             "repo": "choo-chartist",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -610,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown Editor built with Choo / for Choo.",
+            "homepage": "https://dbtek.github.io/choo-md-editor",
             "id": 77054402,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-17T04:58:58Z",
+            "open_issues": 1,
             "owner": "dbtek",
             "repo": "choo-md-editor",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -632,12 +881,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webpack choo-cli template",
+            "homepage": null,
             "id": 78937880,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-04T10:04:09Z",
+            "open_issues": 0,
             "owner": "Haroenv",
             "repo": "template-webpack",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "choo",
+              "choo-cli",
+              "webpack",
+              "webpack2"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -648,12 +907,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic choo-cli template",
+            "homepage": null,
             "id": 72234025,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-18T09:09:41Z",
+            "open_issues": 0,
             "owner": "trainyard",
             "repo": "template-basic",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "choo",
+              "choo-cli",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -664,12 +932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webpack-based, heavily opinionated starter kit for a complete, isomorphic choo app.",
+            "homepage": null,
             "id": 104578415,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-24T14:32:05Z",
+            "open_issues": 0,
             "owner": "graforlock",
             "repo": "choo-bandwagon",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -686,12 +959,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":robot: Introducing kids to coding with tiny virtual robots!",
+            "homepage": "https://robotopia-x.github.io/",
             "id": 71257322,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-01T21:24:55Z",
+            "open_issues": 17,
             "owner": "robotopia-x",
             "repo": "robotopia",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "algorithms",
+              "choo",
+              "coding",
+              "javascript",
+              "kids",
+              "learning",
+              "puzzle",
+              "school",
+              "teaching"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -702,12 +990,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎛 Humble music player",
+            "homepage": "https://twitter.com/hyperampapp",
             "id": 64566453,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-14T08:21:13Z",
+            "open_issues": 4,
             "owner": "hypermodules",
             "repo": "hyperamp",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "choo",
+              "desktop-app",
+              "electron",
+              "music",
+              "music-library",
+              "music-player"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -718,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "build a minimalist site for your documentation",
+            "homepage": null,
             "id": 54788072,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-06T22:13:27Z",
+            "open_issues": 15,
             "owner": "freeman-lab",
             "repo": "minidocs",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -734,12 +1039,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build and manage data with a spreadsheet-like interface",
+            "homepage": "https://dataface-demo.herokuapp.com",
             "id": 87179670,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-08-04T14:34:55Z",
+            "open_issues": 28,
             "owner": "timwis",
             "repo": "dataface",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "koa2",
+              "postgresql",
+              "spreadsheet",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -750,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚂 a fun blog generator",
+            "homepage": null,
             "id": 121934205,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-18T08:00:24Z",
+            "open_issues": 0,
             "owner": "boowajs",
             "repo": "boowa",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -766,12 +1086,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chat interface for SMS / text messages",
+            "homepage": null,
             "id": 64841546,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-25T20:27:09Z",
+            "open_issues": 31,
             "owner": "timwis",
             "repo": "enviar",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -782,12 +1107,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown editor with clarity +1, as a desktop application.",
+            "homepage": null,
             "id": 62612494,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-12-22T16:20:53Z",
+            "open_issues": 6,
             "owner": "HoverBaum",
             "repo": "BlankUp-Electron",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "electron",
+              "markdown",
+              "markdown-editor"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -798,12 +1132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hacker News reader built with Choo",
+            "homepage": null,
             "id": 64710435,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-08-24T01:08:48Z",
+            "open_issues": 1,
             "owner": "kvnneff",
             "repo": "hackernews-choo",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -814,12 +1153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web chat room :cat: :speech_balloon:",
+            "homepage": null,
             "id": 30004552,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-12T22:16:02Z",
+            "open_issues": 2,
             "owner": "notenoughneon",
             "repo": "nekocafe",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -830,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A choo-based grid/spreadsheet editor",
+            "homepage": null,
             "id": 60884982,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-06-24T21:28:42Z",
+            "open_issues": 3,
             "owner": "toddself",
             "repo": "boxcar",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -846,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hackertyper clone written in choo",
+            "homepage": null,
             "id": 61886033,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-06-26T17:45:00Z",
+            "open_issues": 0,
             "owner": "fyrkant",
             "repo": "hacker-choo",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -862,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small web-extension to search the current tab on reddit.",
+            "homepage": "https://addons.mozilla.org/en-US/firefox/addon/busca/",
             "id": 114579749,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-19T22:46:44Z",
+            "open_issues": 6,
             "owner": "afk-mario",
             "repo": "busca",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -878,12 +1237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":game_die: Progressive tic tac toe game, made with choo",
+            "homepage": "https://tic-tac-choo.surge.sh/",
             "id": 64080545,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-01-03T18:30:34Z",
+            "open_issues": 4,
             "owner": "YerkoPalma",
             "repo": "tic-tac-toe",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -894,12 +1258,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":clipboard: simple kanban to manage board tasks, built with choo.js :)",
+            "homepage": "http://choo-ban.surge.sh/",
             "id": 119194877,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-10T20:33:34Z",
+            "open_issues": 20,
             "owner": "luizbaldi",
             "repo": "choo-ban",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "choo",
+              "frontend",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -910,12 +1283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rewriting http://github.com/sjcgis/footprint-review with Choo. (ABANDONED)",
+            "homepage": null,
             "id": 61918649,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-20T23:57:31Z",
+            "open_issues": 0,
             "owner": "nickpeihl",
             "repo": "footprint-rechoo",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -926,12 +1304,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://civicdr.org",
             "id": 78217660,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-09T11:24:35Z",
+            "open_issues": 0,
             "owner": "CiviCDR",
             "repo": "civicdr.org",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -942,12 +1325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "building sortable code with choo",
+            "homepage": null,
             "id": 61757110,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-06-24T17:41:58Z",
+            "open_issues": 0,
             "owner": "willkessler",
             "repo": "choo-sortable",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -958,12 +1346,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Config files for my GitHub profile.",
+            "homepage": "https://github.com/Kaktus",
             "id": 461163504,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-19T10:53:56Z",
+            "open_issues": 0,
             "owner": "Kaktus",
             "repo": "Kaktus",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "config",
+              "github-config"
+            ]
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         }
@@ -972,15 +1368,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:10.396Z",
+    "last_updated": "2026-08-29T04:52:00.595Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌅 Awesome things related with choo framework",
+      "homepage": null,
       "id": 62729561,
       "language": null,
+      "license": null,
       "last_commit": "2019-12-19T10:14:54Z",
+      "open_issues": 3,
       "owner": "choojs",
       "repo": "awesome-choo",
-      "stars": 203
+      "stars": 203,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "choo",
+        "list"
+      ]
     },
     "original_repository_sha": "54063c8ef9f9e85d37fead79d59e26a20165304c",
     "enhanced_repository": "enhansome/enhansome-choo",
