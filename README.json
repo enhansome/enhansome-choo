@@ -142,7 +142,7 @@
             "open_issues": 21,
             "owner": "choojs",
             "repo": "nanomorph",
-            "stars": 752,
+            "stars": 751,
             "topics": [
               "algorithm",
               "diff",
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "choojs",
             "repo": "nanobus",
-            "stars": 228,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:33:59.439Z",
+    "last_updated": "2026-09-02T07:51:00.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",

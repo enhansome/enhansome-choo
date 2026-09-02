@@ -30,10 +30,10 @@ under the hood:
 
 * [hyperx](https://github.com/substack/hyperx) ⭐ 1,015 | 🐛 15 | 🌐 JavaScript | 📅 2023-11-02 - Convert template strings to
   library backends.
-* [nanomorph](https://github.com/choojs/nanomorph) ⭐ 752 | 🐛 21 | 🌐 JavaScript | 📅 2021-06-01 - Hyper fast diffing algorithm for real DOM nodes.
+* [nanomorph](https://github.com/choojs/nanomorph) ⭐ 751 | 🐛 21 | 🌐 JavaScript | 📅 2021-06-01 - Hyper fast diffing algorithm for real DOM nodes.
 * [bel](https://github.com/shama/bel) ⭐ 688 | 🐛 27 | 🌐 JavaScript | 📅 2022-10-12 - Create composable DOM elements using
   template strings.
-* [nanobus](https://github.com/choojs/nanobus) ⭐ 228 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-18 - Tiny message bus.
+* [nanobus](https://github.com/choojs/nanobus) ⭐ 227 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-18 - Tiny message bus.
 * [nanorouter](https://github.com/choojs/nanorouter) ⭐ 117 | 🐛 4 | 🌐 JavaScript | 📅 2019-06-09 - Smol frontend router.
 * [nanoquery](https://github.com/choojs/nanoquery) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-01 - Tiny querystring module.
 * [nanohref](https://github.com/choojs/nanohref) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2019-09-04 - Tiny href click handler library.
@@ -134,4 +134,4 @@ To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
