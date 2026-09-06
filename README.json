@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6767,
+            "stars": 6766,
             "topics": [
               "choo",
               "dom",
@@ -49,7 +49,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6767,
+            "stars": 6766,
             "topics": [
               "choo",
               "dom",
@@ -194,7 +194,7 @@
             "open_issues": 3,
             "owner": "choojs",
             "repo": "nanobus",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
@@ -326,7 +326,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6767,
+            "stars": 6766,
             "topics": [
               "choo",
               "dom",
@@ -356,7 +356,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6767,
+            "stars": 6766,
             "topics": [
               "choo",
               "dom",
@@ -1116,7 +1116,7 @@
             "open_issues": 6,
             "owner": "HoverBaum",
             "repo": "BlankUp-Electron",
-            "stars": 37,
+            "stars": 36,
             "topics": [
               "electron",
               "markdown",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:36:19.194Z",
+    "last_updated": "2026-09-06T07:51:01.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",

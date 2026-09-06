@@ -17,8 +17,8 @@
 
 ### Official resources
 
-* [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) ⭐ 6,767 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
-* [Repo](https://github.com/yoshuawuyts/choo) ⭐ 6,767 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Docs](https://github.com/yoshuawuyts/choo/blob/master/README.md) ⭐ 6,766 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Repo](https://github.com/yoshuawuyts/choo) ⭐ 6,766 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
 * [Handbook](https://github.com/yoshuawuyts/choo-handbook) ⭐ 268 | 🐛 13 | 🌐 HTML | 📅 2019-05-16
 * [Website](https://choo.io/)
 * [Twitter thread](https://twitter.com/yoshuawuyts/status/730087077803528193)
@@ -33,7 +33,7 @@ under the hood:
 * [nanomorph](https://github.com/choojs/nanomorph) ⭐ 751 | 🐛 21 | 🌐 JavaScript | 📅 2021-06-01 - Hyper fast diffing algorithm for real DOM nodes.
 * [bel](https://github.com/shama/bel) ⭐ 688 | 🐛 27 | 🌐 JavaScript | 📅 2022-10-12 - Create composable DOM elements using
   template strings.
-* [nanobus](https://github.com/choojs/nanobus) ⭐ 227 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-18 - Tiny message bus.
+* [nanobus](https://github.com/choojs/nanobus) ⭐ 228 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-18 - Tiny message bus.
 * [nanorouter](https://github.com/choojs/nanorouter) ⭐ 117 | 🐛 4 | 🌐 JavaScript | 📅 2019-06-09 - Smol frontend router.
 * [nanoquery](https://github.com/choojs/nanoquery) ⭐ 49 | 🐛 2 | 🌐 JavaScript | 📅 2019-04-01 - Tiny querystring module.
 * [nanohref](https://github.com/choojs/nanohref) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2019-09-04 - Tiny href click handler library.
@@ -43,8 +43,8 @@ under the hood:
 
 ### Demos
 
-* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title) ⭐ 6,767 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20)
-* [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) ⭐ 6,767 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
+* [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title) ⭐ 6,766 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20)
+* [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox) ⭐ 6,766 | 🐛 44 | 🌐 JavaScript | 📅 2026-02-20
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo](https://github.com/shuhei/todomvc-choo) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-22)
 * [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-15)
 * [choo-leaflet-demo](https://github.com/timwis/choo-leaflet-demo) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-26
@@ -113,7 +113,7 @@ Other CLI templates
 * [dataface](https://github.com/timwis/dataface) ⭐ 43 | 🐛 28 | 🌐 JavaScript | 📅 2017-08-04 - Desktop application to manage databases.
 * [boowa](https://github.com/boowajs/boowa) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-18 - A fun blog generator, built with `choo`.
 * [enviar](https://github.com/timwis/enviar) ⭐ 38 | 🐛 31 | 🌐 JavaScript | 📅 2022-09-25 - Chat interface for SMS / text messages.
-* [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) ⭐ 37 | 🐛 6 | 🌐 CSS | 📅 2017-12-22 - Multiplatform markdown editor.
+* [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) ⭐ 36 | 🐛 6 | 🌐 CSS | 📅 2017-12-22 - Multiplatform markdown editor.
 * [hackernews-choo](https://github.com/kvnneff/hackernews-choo) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2016-08-24 - A Hacker News reader built with choo.
 * [nekocafe](https://github.com/notenoughneon/nekocafe) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2017-08-12 - Web chat room :cat: :speech\_balloon:.
 * [boxcar](https://github.com/toddself/boxcar) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2017-06-24 - A choo-based grid/spreadsheet editor.
@@ -134,4 +134,4 @@ To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
