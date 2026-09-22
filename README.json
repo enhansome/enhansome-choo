@@ -116,7 +116,7 @@
             "open_issues": 15,
             "owner": "choojs",
             "repo": "hyperx",
-            "stars": 1014,
+            "stars": 1013,
             "topics": [
               "dom",
               "html",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:50:26.602Z",
+    "last_updated": "2026-09-22T08:27:36.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
