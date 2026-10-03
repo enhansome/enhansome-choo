@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "choojs/choo",
-          "description": null,
+          "description": "choojs/choo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6762,
             "topics": [
               "choo",
               "dom",
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "choojs/choo",
-          "description": null,
+          "description": "choojs/choo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -49,7 +49,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6762,
             "topics": [
               "choo",
               "dom",
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "Handbook",
-          "description": null,
+          "description": "choojs/choo-handbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,7 +116,7 @@
             "open_issues": 15,
             "owner": "choojs",
             "repo": "hyperx",
-            "stars": 1011,
+            "stars": 1010,
             "topics": [
               "dom",
               "html",
@@ -313,7 +313,7 @@
         {
           "node_type": "item",
           "title": "Input example",
-          "description": "(repo)",
+          "description": "choojs/choo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,7 +326,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6762,
             "topics": [
               "choo",
               "dom",
@@ -343,7 +343,7 @@
         {
           "node_type": "item",
           "title": "Mailbox routing",
-          "description": null,
+          "description": "choojs/choo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6762,
             "topics": [
               "choo",
               "dom",
@@ -373,7 +373,7 @@
         {
           "node_type": "item",
           "title": "TodoMVC",
-          "description": "(repo)",
+          "description": "shuhei/todomvc-choo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
         {
           "node_type": "item",
           "title": "choo-firebase",
-          "description": "(repo)",
+          "description": "fyrkant/choo-firebase",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "choo-leaflet-demo",
-          "description": null,
+          "description": "timwis/choo-leaflet-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "Grow",
-          "description": "(repo)",
+          "description": "sethvincent/grow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -457,7 +457,7 @@
         {
           "node_type": "item",
           "title": "choo-scriber",
-          "description": "(repo)",
+          "description": "ZhouHansen/choo-scriber",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -478,7 +478,7 @@
         {
           "node_type": "item",
           "title": "Chatbot",
-          "description": "(repo)",
+          "description": "plaey/chatbot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -877,7 +877,7 @@
         {
           "node_type": "item",
           "title": "haroenv/template-webpack",
-          "description": null,
+          "description": "Haroenv/template-webpack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -903,7 +903,7 @@
         {
           "node_type": "item",
           "title": "trainyard/template-basic",
-          "description": null,
+          "description": "trainyard/template-basic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -928,7 +928,7 @@
         {
           "node_type": "item",
           "title": "graforlock/choo-bandwagon",
-          "description": null,
+          "description": "graforlock/choo-bandwagon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:39:35.462Z",
+    "last_updated": "2026-10-03T04:36:51.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
