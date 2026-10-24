@@ -110,8 +110,8 @@ Other CLI templates
 * [Robotopia](https://github.com/robotopia-x/robotopia) ⚠️ Archived - Introducing kids to coding with tiny virtual robots!
 * [hyperamp](https://github.com/hypermodules/hyperamp) ⭐ 307 | 🐛 4 | 🌐 JavaScript | 📅 2025-04-14 - Humble music player.
 * [minidocs](https://github.com/freeman-lab/minidocs) ⭐ 137 | 🐛 15 | 🌐 JavaScript | 📅 2019-08-06 – A documentation site generator built with choo.
+* [boowa](https://github.com/boowajs/boowa) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-18 - A fun blog generator, built with `choo`.
 * [dataface](https://github.com/timwis/dataface) ⭐ 43 | 🐛 28 | 🌐 JavaScript | 📅 2017-08-04 - Desktop application to manage databases.
-* [boowa](https://github.com/boowajs/boowa) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2020-04-18 - A fun blog generator, built with `choo`.
 * [enviar](https://github.com/timwis/enviar) ⭐ 38 | 🐛 31 | 🌐 JavaScript | 📅 2022-09-25 - Chat interface for SMS / text messages.
 * [BlankUp](https://github.com/HoverBaum/BlankUp-Electron) ⭐ 36 | 🐛 6 | 🌐 CSS | 📅 2017-12-22 - Multiplatform markdown editor.
 * [hackernews-choo](https://github.com/kvnneff/hackernews-choo) ⭐ 30 | 🐛 1 | 🌐 JavaScript | 📅 2016-08-24 - A Hacker News reader built with choo.
@@ -134,4 +134,4 @@ To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
