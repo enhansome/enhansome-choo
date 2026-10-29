@@ -1034,27 +1034,6 @@
         },
         {
           "node_type": "item",
-          "title": "boowa",
-          "description": "A fun blog generator, built with .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🚂 a fun blog generator",
-            "homepage": null,
-            "id": 121934205,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2020-04-18T08:00:24Z",
-            "open_issues": 0,
-            "owner": "boowajs",
-            "repo": "boowa",
-            "stars": 44,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T15:16:10.396Z"
-        },
-        {
-          "node_type": "item",
           "title": "dataface",
           "description": "Desktop application to manage databases.",
           "children": [],
@@ -1076,6 +1055,27 @@
               "spreadsheet",
               "vue"
             ]
+          },
+          "first_seen": "2026-08-28T15:16:10.396Z"
+        },
+        {
+          "node_type": "item",
+          "title": "boowa",
+          "description": "A fun blog generator, built with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🚂 a fun blog generator",
+            "homepage": null,
+            "id": 121934205,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2020-04-18T08:00:24Z",
+            "open_issues": 0,
+            "owner": "boowajs",
+            "repo": "boowa",
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
         },
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T09:33:17.397Z",
+    "last_updated": "2026-10-29T09:49:41.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
