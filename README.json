@@ -1095,7 +1095,7 @@
             "open_issues": 31,
             "owner": "timwis",
             "repo": "enviar",
-            "stars": 38,
+            "stars": 37,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:10.396Z"
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T09:54:32.003Z",
+    "last_updated": "2026-10-31T09:31:22.945Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
