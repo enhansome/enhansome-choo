@@ -968,7 +968,7 @@
             "open_issues": 17,
             "owner": "robotopia-x",
             "repo": "robotopia",
-            "stars": 526,
+            "stars": 525,
             "topics": [
               "algorithms",
               "choo",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T10:44:26.626Z",
+    "last_updated": "2026-11-06T10:43:42.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
