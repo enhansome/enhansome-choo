@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -49,7 +49,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -169,7 +169,7 @@
             "open_issues": 27,
             "owner": "choojs",
             "repo": "nanohtml",
-            "stars": 688,
+            "stars": 689,
             "topics": [
               "dom",
               "element",
@@ -326,7 +326,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -356,7 +356,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6763,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:01:11.466Z",
+    "last_updated": "2026-11-11T10:45:59.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
