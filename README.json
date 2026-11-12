@@ -116,7 +116,7 @@
             "open_issues": 15,
             "owner": "choojs",
             "repo": "hyperx",
-            "stars": 1009,
+            "stars": 1008,
             "topics": [
               "dom",
               "html",
@@ -968,7 +968,7 @@
             "open_issues": 17,
             "owner": "robotopia-x",
             "repo": "robotopia",
-            "stars": 527,
+            "stars": 526,
             "topics": [
               "algorithms",
               "choo",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:45:59.461Z",
+    "last_updated": "2026-11-12T10:55:58.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
