@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6766,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -49,7 +49,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6766,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -169,7 +169,7 @@
             "open_issues": 27,
             "owner": "choojs",
             "repo": "nanohtml",
-            "stars": 689,
+            "stars": 688,
             "topics": [
               "dom",
               "element",
@@ -326,7 +326,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6766,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -356,7 +356,7 @@
             "open_issues": 44,
             "owner": "choojs",
             "repo": "choo",
-            "stars": 6766,
+            "stars": 6765,
             "topics": [
               "choo",
               "dom",
@@ -968,7 +968,7 @@
             "open_issues": 17,
             "owner": "robotopia-x",
             "repo": "robotopia",
-            "stars": 525,
+            "stars": 524,
             "topics": [
               "algorithms",
               "choo",
@@ -1368,7 +1368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T11:29:10.109Z",
+    "last_updated": "2026-11-20T11:24:44.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌅 Awesome things related with choo framework",
